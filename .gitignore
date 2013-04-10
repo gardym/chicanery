@@ -17,3 +17,6 @@ test/tmp
 test/version_tmp
 tmp
 state
+bin
+*.sw[op]
+vendor/bundle
